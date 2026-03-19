@@ -1,0 +1,32 @@
+/**/
+html {
+    background-color: #212121;
+    color: #EEEEEE;
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 19px;
+}
+
+/**/
+h1 {
+    color: #FE7743
+}
+h2 {
+    color: #FE7743
+}
+a {
+    color: #ffbf83
+}
+p {
+    font-size: 1.2rem;
+}
+
+/**/
+.song-link{
+    color: #ffbf83
+}
+.footnote {
+    font-size: 0.7rem;
+}
